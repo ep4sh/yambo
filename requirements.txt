@@ -4,6 +4,6 @@ feedparser==5.2.1
 idna==2.8
 pkg-resources==0.0.0
 requests==2.22.0
-urllib3==1.25.7
+urllib3==1.26.5
 yampy==1.0
 authenticator==1.1.3 
